@@ -52,6 +52,7 @@ loan-approval-supervised-classification/
 │   └── loans_modified.csv
 ├── loan_approval_ml_pipeline.ipynb
 ├── LICENSE
+├── requirements.txt
 └── README.md
 ```
 
